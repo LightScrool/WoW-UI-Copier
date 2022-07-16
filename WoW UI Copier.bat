@@ -1,0 +1,1 @@
+echo the string for python | python "WoW UI Copier Script.py"

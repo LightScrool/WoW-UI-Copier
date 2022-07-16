@@ -1,0 +1,8 @@
+_retail_ directory = "D:\Games\World of Warcraft\_retail_"
+account name = "406975906#1"
+server = "Гордунни"
+character = "Фирисия"
+archive name = "My WoW UI"
+character settings folder name = "chr"
+account settings folder name = "acc"
+--------------------------------------------------------------------------------
